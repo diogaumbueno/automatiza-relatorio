@@ -9,7 +9,7 @@ https://henriquebastos.nutror.com/curso/c45d6c491bbaf11a5f7df9e2e868899495d56689
 Esse peojeto contempla a necessidade real por uma rotina mais eficiente e rápida quanto à análise dos dados, possibilitando ainda gerar um relatório em PDF com as análises desejadas.
 
 Observações:
-
+ Para rodar o projeto em sistemas Windowws, é necessário instalar o complemento GTK
 Para facilitar a aplicação do projeto em outras IDE, disponibilizei os links dos arquivos utilizados nesse projeto.
 O arquivo de extensão.pug carrega todas as informações para a criação do PDF.
 Demandas:
