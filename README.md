@@ -1,6 +1,6 @@
 # automatiza-relatorio
 
-Demonstração no Google Collab: https://github.com/diogaumbueno/AutomatizaRelatorio/blob/main/AutomatizaRelatorio.ipynb
+Demonstração o Google Collab: https://github.com/diogaumbueno/AutomatizaRelatorio/blob/main/AutomatizaRelatorio.ipynb
 
 Video do Openspace com a demonstração do Software Rodando
 
@@ -21,6 +21,7 @@ b) Ofertar o projeto como um SaaS?
 
 c) Como "vender" esse projeto para uma demanda real?
 
+D) TESTE
 Bibliotecas:
 
 https://doc.courtbouillon.org/weasyprint/stable/first_steps.html#windows
